@@ -25,7 +25,7 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 2 | Nancy Nandan| Student | Electrical Engineering |  Rajkiya Engineering College , Banda| nandannancy102@gmail.com
 3 | Vikas Kumar | Student | Information Technology |  Rajkiya Engineering College , Banda | vikas19347@gmail.com
 4 | Abhishek Prasad | Student | Information Technology| Rajkiya Engineering College , Banda | prasadabhi131@gmail.com
-5 | Robin Pal | Student |  Computer Science & Engineering | Rajkiya Engineering College , Banda| robinpaul9598@gmail.com
+5 | Robin Pal | Student |Information Technology  | Rajkiya Engineering College , Banda| robinpaul9598@gmail.com
 
 
 <br>
