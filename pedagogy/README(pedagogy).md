@@ -8,7 +8,7 @@
 <b>Discipline | <b>Engineering
 :--|:--|
 <b> Lab | <b> Electrical Engineering
-<b> Experiment|     <b> To measure power and improvement of power factor
+<b> Experiment|     <b> To measure power and information about power and improvement of power factor in Ac circuits
 
 <h4> [1. Focus Area](#LO)
 <h4> [2. Learning Objectives ](#LO)
@@ -17,8 +17,8 @@
 <hr>
 
 <a name="LO"></a>
-#### 1. Focus Area : caluclation of poer factor
-The students know the concept of power factor and they will learn how to calculate the power RC , LC , RLC series circuits
+#### 1. Focus Area : caluclation of power factor
+The students know the concept of power factor and they will learn how to calculate the power in  RC , LC and  RLC series circuits
 
 <br/>
 <div align="right">
@@ -30,7 +30,7 @@ The students know the concept of power factor and they will learn how to calcula
 <a name="LO"></a>
 #### 2. Learning Objectives and Cognitive Level
 
-To study calculation of power in various AC Circuits
+To study calculation of power in various AC Circuits and information about power factor and improbvement of power factor 
 
 
 
