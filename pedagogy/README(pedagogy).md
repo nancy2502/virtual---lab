@@ -18,7 +18,7 @@
 
 <a name="LO"></a>
 #### 1. Focus Area : caluclation of power factor
-The students know the concept of power factor and they will learn how to calculate the power in  RC , LC and  RLC series circuits
+The students know the concept of power and power factor and they will learn how to calculate the power in  RC , LC and  RLC series circuits
 
 <br/>
 <div align="right">
@@ -30,7 +30,7 @@ The students know the concept of power factor and they will learn how to calcula
 <a name="LO"></a>
 #### 2. Learning Objectives and Cognitive Level
 
-To study calculation of power in various AC Circuits and information about power factor and improbvement of power factor 
+To study calculation of power in various AC Circuits and information about power factor and improvement of power factor 
 
 
 
@@ -47,11 +47,7 @@ To study calculation of power in various AC Circuits and information about power
 
 Read the theory and comprehend the concepts related to the experiment. 
 <br>
-<div>
-    The quizes are provided that will judge and inhance the skills of the Student.
-    Each question is relevent to the experiment and just ment to increse the understanding of experiment and their concept.
- 
-</div>
+
 <br>
 
 <br/>
