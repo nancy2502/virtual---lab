@@ -5,7 +5,7 @@
 <b>Discipline | <b>Engineering
 :--|:--|
 <b> Lab. | <b>Electrical Engineering
-<b> Experiment|     <b> measurement of power and information about power factor and improvement of power factor
+<b> Experiment|     <b> measurement of power in AC circuit and information about power factor and improvement of power factor
 
 
 
