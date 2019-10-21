@@ -11,6 +11,8 @@
 
 <h5> About the Experiment : </h5>
 To Measure power factor and improvement of power factor.
+
+
 <b>Name of Developer | <b> MR. Ashish Shrivastava
 :--|:--|
 <b> Institute | <b> Rajkiya Engineering College , Banda
