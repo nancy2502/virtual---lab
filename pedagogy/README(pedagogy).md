@@ -12,7 +12,7 @@
 
 <h4> [1. Focus Area](#LO)
 <h4> [2. Learning Objectives ](#LO)
-<h4> [4. Task & Assessment Questions](#AQ)
+<h4> [4. Task](#AQ)
 <h4> [5. Simulator Interactions](#SI)
 <hr>
 
