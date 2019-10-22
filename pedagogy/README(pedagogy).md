@@ -8,7 +8,7 @@
 <b>Discipline | <b>Engineering
 :--|:--|
 <b> Lab | <b> Electrical Engineering
-<b> Experiment|     <b> To measure power and information about power and improvement of power factor in Ac circuits
+<b> Experiment|     <b>  measurment of power and information about improvement of power factor in Ac circuits
 
 <h4> [1. Focus Area](#LO)
 <h4> [2. Learning Objectives ](#LO)
