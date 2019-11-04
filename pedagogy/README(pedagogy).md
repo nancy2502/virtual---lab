@@ -2,7 +2,7 @@
 <p align="center">
 <br>
 <br>
-<b> Experiment:DSB/SSB amplitude modulation   <a name="top"></a> <br>
+<b> Experiment:calculation of power factor   <a name="top"></a> <br>
 </p>
 
 <b>Discipline | <b>Engineering
