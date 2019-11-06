@@ -10,20 +10,20 @@ Ac series circuits are a displaying .central area is grid area where students wi
 #### 2. Story:
     students will drop and drop the electrical components from the different boxes showing components to the grid area after placing all the desired components students must” click on” connect components.
 Button all the components will connect in G series manner . in another way students can select the predesigned circuits available in the box above the grid area.then one pop up window will appear and students must answer the question shown as pop window after answering the question only measure button will highlight .then students has to click on measure button to get the reading of voltmeter ,ammeter and wattmeter connected. then again students has go through another pop up window .then student has to calculate the power factor using the fomulas displaying and enter the value .if the value is wrong then Simulink will display “wrong answer” and then display the correct value .
-2.1-complete window of simulator is divided into 5 parts first one is electrical components , second one is measuring instruments,  third one is predesigned series circuits fourth one is grid area where simulation will perform ad with the central area right side of this grid area will represent the value of measuring instruments on the 4-boxes and the space to display the phasors. the fifth part of the window in having “connect components” and measured buttons .few pop up window will appear at the different stages of the simulation.
-2.2- students will designed the series circuit use predesigned circuits to measure the power voltage and current from the data students will get,they calculate the active power, apparent power ,power factor etc.
+<br>2.1-complete window of simulator is divided into 5 parts first one is electrical components , second one is measuring instruments,  third one is predesigned series circuits fourth one is grid area where simulation will perform ad with the central area right side of this grid area will represent the value of measuring instruments on the 4-boxes and the space to display the phasors. the fifth part of the window in having “connect components” and measured buttons .few pop up window will appear at the different stages of the simulation.
+<br>2.2- students will designed the series circuit use predesigned circuits to measure the power voltage and current from the data students will get,they calculate the active power, apparent power ,power factor etc.
 The complete simulation will done in different stages 
-1.first students will drag and drop the electrical components like R,L,C voltage sources ,voltmeter ,ammeter and wattmeter to the grid area od students will drag and drop the predesigned circuits to the grid area .
-2. students must enter the value of source voltage and load impedance .
-3, students must click on “connect button” 
-4.after just clicking on “connect button”pop up window will appear having question .students must answer all the questions.
-5.circuits will connect and ready to  measure to measure the volatage , current and power students should click on measure buttons.
-6.the boxes on the right side of the grid area will display voltmeter
+<br>.first students will drag and drop the electrical components like R,L,C voltage sources ,voltmeter ,ammeter and wattmeter to the grid area od students will drag and drop the predesigned circuits to the grid area .
+<br>2. students must enter the value of source voltage and load impedance .
+<br>3, students must click on “connect button” 
+<br>4.after just clicking on “connect button”pop up window will appear having question .students must answer all the questions.
+<br>5.circuits will connect and ready to  measure to measure the volatage , current and power students should click on measure buttons.
+<br>6.the boxes on the right side of the grid area will display voltmeter
 reading ,ammeter reading and wattmeter reading.
-7.again pop up window will appear  with question and students 
+<br>7.again pop up window will appear  with question and students 
 has to answer all.
-8.students must enter the value of power factor after noted down the parameter displayed on the screen and the formula.
-9.if value of power factor is wrong the simulation will display the messages "wrong answer"and display the correct answer.
+<br>8.students must enter the value of power factor after noted down the parameter displayed on the screen and the formula.
+<br>9.if value of power factor is wrong the simulation will display the messages "wrong answer"and display the correct answer.
 
 
 
@@ -55,6 +55,7 @@ has to answer all.
 <br>(b)reactive power
 <br>(c)apparent power
 <br>(d) voltage
+<br> ANS:-A
 
 
 
@@ -79,9 +80,9 @@ students  may create a short circuits on the load may connect the measuring inst
 #### conclusion
 #### after performing the experiment and submitting the answer of all the questions final mark will display each questions carry 1 marks . there is no negative marking if  students secure 50% marks he/she will consider a pass otherwise fail.
 equations /formula 
-                                  power factor =p/s
-                                              s=VI
-                                              Q=VIsin
+                                 <br> power factor =p/s
+                                     <br>         s=VI
+                                         <br>     Q=VIsin
 
 
 
